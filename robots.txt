@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://clover-bonanza-ru-yohoslot-356.onrender.com/sitemap.xml
+Sitemap: https://srv-d864j23rjlhs73agjpvg.onrender.com/sitemap.xml
